@@ -1,0 +1,4 @@
+#Sat Oct 07 17:14:59 UZT 2017
+base.0=D\:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_1db46bf01a3db538fb6b585fd9231c6aee6a2f01
+renamed.0=classes.dex
+file.0=D\:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_1db46bf01a3db538fb6b585fd9231c6aee6a2f01\\classes.dex

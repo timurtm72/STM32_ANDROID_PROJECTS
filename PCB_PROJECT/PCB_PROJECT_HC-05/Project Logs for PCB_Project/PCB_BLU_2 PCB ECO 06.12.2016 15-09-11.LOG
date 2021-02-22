@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=GND Pin=M1-1
+Removed Pin From Net: NetName=VDD Pin=M1-11
+Removed Pin From Net: NetName=NetLC_1 Pin=M1-21
+Removed Pin From Net: NetName=GND Pin=M1-28
+Removed Pin From Net: NetName=GND Pin=M1-29
+Removed Pin From Net: NetName=VDD Pin=R25-2
+Removed Pin From Net: NetName=VDD Pin=R26-2
+Removed Pin From Net: NetName=VDD Pin=R27-2
+Removed Pin From Net: NetName=VDD Pin=R28-2
+Removed Pin From Net: NetName=NetM1_2 Pin=R30-1
+Removed Pin From Net: NetName=GND Pin=R30-2
+Removed Pin From Net: NetName=GND Pin=R31-2
+Removed Pin From Net: NetName=GND Pin=R32-1
+Removed Pin From Net: NetName=GND Pin=R33-1
+Removed Member From Class: ClassName=PCB_BLU2 Member=R25
+Removed Member From Class: ClassName=PCB_BLU2 Member=R26
+Removed Member From Class: ClassName=PCB_BLU2 Member=R27
+Removed Member From Class: ClassName=PCB_BLU2 Member=R28
+Removed Member From Class: ClassName=PCB_BLU2 Member=R30
+Removed Member From Class: ClassName=PCB_BLU2 Member=R31
+Removed Member From Class: ClassName=PCB_BLU2 Member=R32
+Removed Member From Class: ClassName=PCB_BLU2 Member=R33
+Removed Member From Class: ClassName=PCB_BLU2 Member=S1
+Change Component DesignItemId : Designator=M1 Old DesignItemId=RN42MOD New DesignItemId=HC-05MOD
+Change Component Footprint: Designator=M1 Old Footprint=RN42-LAND New Footprint=HC-05-LAND
+Change Component Comment : Designator=F1 Old Comment=300mA New Comment=500mA
+Change Component Comment : Designator=M1 Old Comment=RN42 Module New Comment=Value
+Change Component Description : Designator=J1 Old Description==Description New Description=Memory Card Connectors Molex 504528-0892
+Change Component Description : Designator=C16 Old Description=WCAP-CSGP MLCC, X7R, 0805, 2.2?F ,10Vdc New Description=WCAP-CSGP MLCC, X7R, 0805, 2.2?F ,10Vdc
+Change Component Description : Designator=C17 Old Description=WCAP-CSGP MLCC, X7R, 0805, 2.2?F ,10Vdc New Description=WCAP-CSGP MLCC, X7R, 0805, 2.2?F ,10Vdc
+Change Component Description : Designator=C1 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C3 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C5 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C6 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C7 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C8 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C9 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Library : Designator=P1 Old Library=AMP Serial Bus USB.IntLib New Library=AMP Serial Bus USB.SchLib
+Change Component Kind : Designator=M1 Old Kind=Standard (No BOM) New Kind=Standard
+Added Pin To Net: NetName=VDD Pin=M1-12
+Added Pin To Net: NetName=GND Pin=M1-21
+Added Pin To Net: NetName=GND Pin=M1-22
+Added Pin To Net: NetName=NetM1_2 Pin=R35-2
+Added Pin To Net: NetName=NetM1_1 Pin=M1-1
+Added Pin To Net: NetName=NetM1_1 Pin=R34-2
+Added Net: Name=NetM1_1
+Added Pin To Net: NetName=NetM1_11 Pin=M1-11
+Added Pin To Net: NetName=NetM1_11 Pin=U1-34
+Added Net: Name=NetM1_11
+Added Room: Name=PCB_BLU1
+Added Room: Name=PCB_BLU2
+Added Room: Name=PCB_BLU3
+Added Room: Name=PCB_BLU

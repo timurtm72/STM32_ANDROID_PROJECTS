@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\BluetoothTransfer File\aFileChooserExample\aFileChooserExample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b1732d4e33c8be95ea6139af121dae00fb9aa01c">
+        <dex dex="D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\BluetoothTransfer File\aFileChooserExample\aFileChooserExample\build\intermediates\pre-dexed\debug\instant-run-bootstrap_392e33ddd4d0f5ccc8d4a49e9860339b9984d611.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\OrignalProjectBTU\aFileChooserExample\aFileChooserExample\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_1db46bf01a3db538fb6b585fd9231c6aee6a2f01\classes.dex" />
+    </item>
+    <item
+        jar="D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\BluetoothTransfer File\aFileChooserExample\aFileChooserExample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="04cb1c316a576d00452fa2a668417ae11359b967">
+        <dex dex="D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\BluetoothTransfer File\aFileChooserExample\aFileChooserExample\build\intermediates\pre-dexed\debug\instant-run_c3a65b11969556ee9fbaa15bf24f338e983b57ef.jar" />
+    </item>
+    <item
+        jar="G:\Android\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\BluetoothTransfer File\aFileChooserExample\aFileChooserExample\build\intermediates\pre-dexed\debug\support-v4-19.1.0_1db46bf01a3db538fb6b585fd9231c6aee6a2f01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\OrignalProjectBTU\aFileChooserExample\aFileChooserExample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44e2f66548580e0cff9d79bc362a96ff88741dbd">
+        <dex dex="D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\OrignalProjectBTU\aFileChooserExample\aFileChooserExample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1869cc169029ad06a84afca210ef8e927a88c1ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\OrignalProjectBTU\aFileChooserExample\aFileChooserExample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\OrignalProjectBTU\aFileChooserExample\aFileChooserExample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fd320d063fa35f979eeda28584589f66abd19df0\classes.dex" />
+    </item>
+
+</items>

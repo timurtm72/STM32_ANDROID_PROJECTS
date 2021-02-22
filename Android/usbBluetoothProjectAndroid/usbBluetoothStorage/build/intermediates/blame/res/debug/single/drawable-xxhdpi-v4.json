@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_chooser.png",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\exploded-aar\\aFileChooserExample\\aFileChooser\\unspecified\\res\\drawable-xxhdpi-v4\\ic_chooser.png"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_file.png",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ic_file.png"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_file.png",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\exploded-aar\\aFileChooserExample\\aFileChooser\\unspecified\\res\\drawable-xxhdpi-v4\\ic_file.png"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_folder.png",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ic_folder.png"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_chooser.png",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ic_chooser.png"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_folder.png",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\exploded-aar\\aFileChooserExample\\aFileChooser\\unspecified\\res\\drawable-xxhdpi-v4\\ic_folder.png"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_provider.png",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\exploded-aar\\aFileChooserExample\\aFileChooser\\unspecified\\res\\drawable-xxhdpi-v4\\ic_provider.png"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_provider.png",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\ic_provider.png"
+    }
+]

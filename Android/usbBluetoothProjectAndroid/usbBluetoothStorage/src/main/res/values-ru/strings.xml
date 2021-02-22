@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Блютуз соединение</string>
+    <string name="chooser_title">Выбрать</string>
+    <string name="statusText">Соединение</string>
+    <string name="bt">Статус BT:</string>
+    <string name="title_activity_main">Передача файлов</string>
+    <string name="open_bt_conection">Соединиться</string>
+    <string name="close_bt_conection">Разъединится</string>
+    <string name="open_folder">Открыть файлы</string>
+</resources>

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=F1 Old Footprint=RES2512R New Footprint=Fuse-LAND
+Added Pin To Net: NetName=VUSB Pin=F1-1
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=P1-1
+Added Net: Name=NetF1_2
+Added Room: Name=PCB_BLU1
+Added Room: Name=PCB_BLU2
+Added Room: Name=PCB_BLU3
+Added Room: Name=PCB_BLU

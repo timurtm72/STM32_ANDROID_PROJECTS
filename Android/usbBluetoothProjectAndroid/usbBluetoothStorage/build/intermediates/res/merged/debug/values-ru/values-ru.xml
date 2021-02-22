@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Блютуз соединение</string>
+    <string name="bt">Статус BT:</string>
+    <string name="choose_file">Выберите файл</string>
+    <string name="chooser_title">Выбрать</string>
+    <string name="close_bt_conection">Разъединится</string>
+    <string name="empty_directory">Пустая папка</string>
+    <string name="error_selecting_file">Ошибка при выборе файла</string>
+    <string name="open_bt_conection">Соединиться</string>
+    <string name="open_folder">Открыть файлы</string>
+    <string name="statusText">Соединение</string>
+    <string name="storage_removed">Storage was removed or unmounted.</string>
+    <string name="title_activity_main">Передача файлов</string>
+</resources>

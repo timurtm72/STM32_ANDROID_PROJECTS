@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=VUSB Pin=D1-5
+Removed Pin From Net: NetName=VUSB Pin=F1-1
+Removed Member From Class: ClassName=PCB_BLU3 Member=D1
+Change Component DesignItemId : Designator=F1 Old DesignItemId=Fuse 1 New DesignItemId=Fuse 500ma
+Change Component Comment : Designator=F1 Old Comment=500mA New Comment=fuse 15v 500ma 1812
+Change Component Library : Designator=F1 Old Library=Miscellaneous Devices.IntLib New Library=Dwl-Altium-Schematic-Symbol-Library.schlib
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=P1-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_2 Pin=R13-1
+Added Net: Name=NetP1_2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=R14-1
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U1-70
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U1-71
+Added Net: Name=NetR14_2
+Added Room: Name=PCB_BLU1
+Added Room: Name=PCB_BLU2
+Added Room: Name=PCB_BLU3
+Added Room: Name=PCB_BLU

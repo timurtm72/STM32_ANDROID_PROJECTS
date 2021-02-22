@@ -1,0 +1,34 @@
+Bill of Material for 
+On 10.11.2016 at 17:04:15
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0                   RES0201R         2    R7, R10                      Resistor             
+ 100 nF              WCAP-CSGP 1206, H=0.8mm   10    C2, C4, C10, C11, C12, C13   WCAP-CSGP MLCC, X7R, 1206, 100000 pF,10Vdc 
+                                           C14, C15, C18, C23
+ 100k                RES0201R         6    R11, R30, R31, R32, R33, R36 Resistor             
+ 100k                RES0402R         4    R25, R26, R27, R28           Resistor             
+ 100kOm              RES0201R         7    R18, R19, R20, R21, R22, R23 Resistor             
+                                           R24
+ 10k                 RES0201R         2    R5, R8                       Resistor             
+ 1470695-4           1470695A         1    P1                           USB 1.1, Right Angle, SMT, A Type, Plug, 4 Position, Black 
+ 150060BS75000       LED_0603_Blue    1    LC                           SMD mono-color Chip LED, WL-SMCW, Blue 
+ 150060GS75000       LED_0603_Green    1    LS                           SMD mono-color Chip LED, WL-SMCW, Green 
+ 150060RS75000       LED_0603_Red     1    LLA                          SMD mono-color Chip LED, WL-SMCW, Red 
+ 1?F                 WCAP-CSGP 1210, H=1.25mm    7    C1, C3, C5, C6, C7, C8, C9   WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc 
+ 2.2?F               WCAP-CSGP 0805, H=1.25mm    2    C16, C17                     WCAP-CSGP MLCC, X7R, 0805, 2.2?F ,10Vdc 
+ 20 pF               WCAP-CSGP 0603, H=0.8mm    2    C19, C20                     WCAP-CSGP MLCC, NP0, 0603, 22 pF,10Vdc 
+ 22                  RES0402R         7    R1, R2, R3, R4, R13, R14, R37 Resistor             
+ 220                 RES0402R         1    R12                          Resistor             
+ 22uF                6032             3    C21, C22, C24                Tantamount Military, Surface Mount MIL-PRF-55365/8 Qualified Solid Tantalum Chip Capacitor: 22uF, 20% Tolerance, 6 WVDC @ +85°C, Surge = 8V 
+ 300mA               RES2512R         1    F1                           Fuse                 
+ 510                 RES0201R         4    R6, R9, R34, R35             Resistor             
+ 510                 RES0402R         3    R16, R17, R29                Resistor             
+ 8 Mhz               3SMXA            1    Y1                           Crystal Oscillator   
+ Inductor            0402-A           1    L1                           Inductor             
+ LP38690DTX-3.3      TD03B_N          1    U2                           1A Low Dropout CMOS Linear Regulators Stable with Ceramic Output Capacitors, 3-pin TO-252 
+ MICROSD             MICROSD          1    J1                           =Description         
+ STM32F407VGT6       STM-LQFP100_N    1    U1                           ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 82 I/Os, 100-pin LQFP, -40 to 85 degC, Tray 
+ SW DIP-4            SO8_N            1    S1                           DIP Switch, 4 Position, SPST 
+ SWD                 HDR1X6           1    P2                           Header, 6-Pin        
+ VDC = 5V            SOT23-6L         1    D1                           WE-TVS TVS Diode, High Speed Series, SOT23-6L, VDC = 5V 

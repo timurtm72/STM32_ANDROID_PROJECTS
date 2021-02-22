@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\xml\\mimetypes.xml",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\xml\\mimetypes.xml"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\xml\\mimetypes.xml",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\exploded-aar\\aFileChooserExample\\aFileChooser\\unspecified\\res\\xml\\mimetypes.xml"
+    }
+]

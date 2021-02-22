@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="use_activity">true</bool>
+    <bool name="use_provider">false</bool>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="list_padding">0dp</dimen>
+    <string name="app_name">Bluetooth conection</string>
+    <string name="bt">Status BT:</string>
+    <string name="choose_file">Select a file</string>
+    <string name="chooser_title">Select</string>
+    <string name="close_bt_conection">Close Bluetooth conection</string>
+    <string name="empty_directory">Empty Directory</string>
+    <string name="error_selecting_file">Error selecting File</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="open_bt_conection">Open Bluetooth conection</string>
+    <string name="open_folder">Open files</string>
+    <string name="statusText">Conection...</string>
+    <string name="storage_removed">Storage was removed or unmounted.</string>
+    <string name="title_activity_main">Transfer files</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+    <style name="ChooserTheme" parent="android:Theme.Light"/>
+    <style name="fileChooserName">
+        <item name="android:drawablePadding">@dimen/list_item_padding</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:paddingLeft">@dimen/list_item_padding</item>
+        <item name="android:paddingRight">@dimen/list_item_padding</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+    </style>
+</resources>

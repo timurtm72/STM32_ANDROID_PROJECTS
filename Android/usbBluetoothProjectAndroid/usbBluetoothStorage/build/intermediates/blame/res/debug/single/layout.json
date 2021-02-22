@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_list_view.xml",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\src\\main\\res\\layout\\inflate_list_view.xml"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_list_view.xml",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\src\\main\\res\\layout\\inflate_list_view.xml"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\layout\\file.xml",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\OrignalProjectBTU\\aFileChooserExample\\aFileChooser\\build\\intermediates\\bundles\\default\\res\\layout\\file.xml"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\layout\\file.xml",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\exploded-aar\\aFileChooserExample\\aFileChooser\\unspecified\\res\\layout\\file.xml"
+    },
+    {
+        "merged": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\ALL_PROJECTS\\BLUETOOTH_ANDROID_STM32\\BluetoothTransfer File\\aFileChooserExample\\aFileChooserExample\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

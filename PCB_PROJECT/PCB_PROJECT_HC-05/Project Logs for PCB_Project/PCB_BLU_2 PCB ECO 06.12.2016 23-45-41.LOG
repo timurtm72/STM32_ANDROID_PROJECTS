@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=NetC18_2 Pin=R4-2
+Removed Pin From Net: NetName=NetJ1_3 Pin=R22-1
+Removed Pin From Net: NetName=VDD Pin=R22-2
+Removed Pin From Net: NetName=NetC18_2 Pin=U1-14
+Change Component Comment : Designator=R36 Old Comment=100k New Comment=10k
+Change Component Comment : Designator=R18 Old Comment=100kOm New Comment=10k
+Change Component Comment : Designator=R19 Old Comment=100kOm New Comment=10k
+Change Component Comment : Designator=R20 Old Comment=100kOm New Comment=10k
+Change Component Comment : Designator=R21 Old Comment=100kOm New Comment=10k
+Change Component Comment : Designator=R23 Old Comment=100kOm New Comment=10k
+Change Component Comment : Designator=R24 Old Comment=100kOm New Comment=10k
+Change Component Comment : Designator=R22 Old Comment=100kOm New Comment=100
+Change Component Comment : Designator=R12 Old Comment=220 New Comment=100
+Change Component Comment : Designator=R34 Old Comment=510 New Comment=22
+Change Component Comment : Designator=R35 Old Comment=510 New Comment=22
+Change Component Description : Designator=C16 Old Description=WCAP-CSGP MLCC, X7R, 0805, 2.2?F ,10Vdc New Description=WCAP-CSGP MLCC, X7R, 0805, 2.2?F ,10Vdc
+Change Component Description : Designator=C17 Old Description=WCAP-CSGP MLCC, X7R, 0805, 2.2?F ,10Vdc New Description=WCAP-CSGP MLCC, X7R, 0805, 2.2?F ,10Vdc
+Change Component Description : Designator=C1 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C3 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C5 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C6 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C7 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C8 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Change Component Description : Designator=C9 Old Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc New Description=WCAP-CSGP MLCC, X7R, 1210, 1?F pF,16Vdc
+Added Component: Designator=R22(RES0201R)
+Added Component: Designator=R30(RES0402R)
+Added Pin To Net: NetName=NetLC_1 Pin=M1-32
+Added Pin To Net: NetName=NetC18_2 Pin=R22-1
+Added Pin To Net: NetName=NetJ1_3 Pin=R22-1
+Added Pin To Net: NetName=VDD Pin=R22-2
+Added Pin To Net: NetName=VDD Pin=R30-1
+Added Pin To Net: NetName=NetM1_11 Pin=R30-2
+Change Net Name : Old Net Name=NetR37_2 New Net Name=NetD1_5
+Added Pin To Net: NetName=NetD1_1 Pin=R13-2
+Added Pin To Net: NetName=NetD1_1 Pin=U1-70
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_3 Pin=P1-3
+Added Pin To Net: NetName=NetD1_3 Pin=R14-1
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetD1_4 Pin=R14-2
+Added Pin To Net: NetName=NetD1_4 Pin=U1-71
+Added Net: Name=NetD1_4
+Added Pin To Net: NetName=NetD1_6 Pin=P1-2
+Added Pin To Net: NetName=NetD1_6 Pin=R13-1
+Added Net: Name=NetD1_6
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R22-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-14
+Added Net: Name=NetR4_2
+Added Member To Class: ClassName=PCB_BLU3 Member=Component F1 fuse 15v 500ma 1812
+Added Member To Class: ClassName=PCB_BLU Member=Component R22 100
+Added Member To Class: ClassName=PCB_BLU2 Member=Component R30 10k
+Added Room: Name=PCB_BLU1
+Added Room: Name=PCB_BLU2
+Added Room: Name=PCB_BLU3
+Added Room: Name=PCB_BLU

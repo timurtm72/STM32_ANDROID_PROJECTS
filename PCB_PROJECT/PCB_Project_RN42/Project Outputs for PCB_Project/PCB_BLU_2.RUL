@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\PCB_PROJECT\PCB_Project\PCB_BLU_2.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_U1_0.1mm|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width_GND_0.5mm|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_3.3_0.5mm|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_5V_0.5mm|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_ALL|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Schematic Width Constraint|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Schematic Width Constraint_1|Scope=Board|Minimum=3.94

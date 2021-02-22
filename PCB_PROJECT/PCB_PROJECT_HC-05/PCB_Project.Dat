@@ -1,0 +1,29 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\PCB_PROJECT\PCB_PROJECT_HC-05\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~67|ReportField=ReportTime~18:32:34|ReportField=ReportDate~14.12.2016|ReportField=ReportDateTime~14.12.2016 18:32:34|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~14.12.2016|ReportField=CurrentTime~18:19:29|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\PCB_PROJECT\PCB_PROJECT_HC-05\PCB_BLU1.SchDoc|ReportField=DocumentName~PCB_BLU1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~06.12.2016|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\PCB_PROJECT\PCB_PROJECT_HC-05\PCB_Project.PrjPcb
+1|22uF|Tantamount Military, Surface Mount MIL-PRF-55365/8 Qualified Solid Tantalum Chip Capacitor: 22uF, 20% Tolerance, 6 WVDC @ +85°C, Surge = 8V|C1, C2, C4|6032|CWR11DH226M|3
+2|100 nF|WCAP-CSGP MLCC, X7R, 1206, 100000 pF,10Vdc|C3, C6, C8, C14, C15, C16, C17, C18, C19, C22|WCAP-CSGP 1206, H=0.8mm|WCAP-CSGP 1206, 885012208009|10
+3|1μF|WCAP-CSGP MLCC, X7R, 1210, 1μF pF,16Vdc|C5, C7, C9, C10, C11, C12, C13|WCAP-CSGP 1210, H=1.25mm|WCAP-CSGP 1210, 885012209011|7
+4|2.2μF|WCAP-CSGP MLCC, X7R, 0805, 2.2μF ,10Vdc|C20, C21|WCAP-CSGP 0805, H=1.25mm|WCAP-CSGP 0805, 885012207024|2
+5|20 pF|WCAP-CSGP MLCC, NP0, 0603, 22 pF,10Vdc|C23, C24|WCAP-CSGP 0603, H=0.8mm|WCAP-CSGP 0603, 885012006004|2
+6|SRV05-4HTG|WE-TVS TVS Diode, High Speed Series, SOT23-6L, VDC = 5V|D1|SOT23-6L|WE-TVS, SOT23-6L, 824001|1
+7|fuse 15v 500ma 1812|FUSE|F1|Fuse-LAND|Fuse 500ma|1
+8|MICROSD|Memory Card Connectors Molex 504528-0892|J1|MICROSD|MICROSD|1
+9|Inductor|Inductor|L1|0603|Inductor|1
+10|150060BS75000|SMD mono-color Chip LED, WL-SMCW, Blue|LC1|LED_0603_Blue|WL-SMCW 0603  150060BS75000|1
+11|150060RS75000|SMD mono-color Chip LED, WL-SMCW, Red|LLA1|LED_0603_Red|WL-SMCW 0603  150060RS75000|1
+12|150060GS75000|SMD mono-color Chip LED, WL-SMCW, Green|LS1|LED_0603_Green|WL-SMCW 0603  150060GS75000|1
+13|Value|HC-05 Module|M1|HC-05-LAND|HC-05MOD|1
+14|1470695-4|USB 1.1, Right Angle, SMT, A Type, Plug, 4 Position, Black|P1|1470695A|1470695-4|1
+15|SWD|Header, 6-Pin|P2|HDR1X6|Header 6|1
+16|10k|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R20, R23|RES0201R|Resistor1|10
+17|22|Resistor|R9, R10|RES0201R|Resistor1|2
+18|10k|Resistor|R11|RES0402R|Resistor1|1
+19|510|Resistor|R12, R26, R30|RES0402R|Resistor1|3
+20|22|Resistor|R13, R14, R15, R16, R17, R18, R19|RES0402R|Resistor1|7
+21|510|Resistor|R21, R24|RES0201R|Resistor1|2
+22|0|Resistor|R22, R25|RES0201R|Resistor1|2
+23|100k|Resistor|R27|RES0201R|Resistor1|1
+24|100|Resistor|R28|RES0201R|Resistor1|1
+25|100|Resistor|R29|RES0402R|Resistor1|1
+26|LP38690DTX-3.3|1A Low Dropout CMOS Linear Regulators Stable with Ceramic Output Capacitors, 3-pin TO-252|U1|TD03B_N|LP38690DTX-3.3|1
+27|STM32F407VGT6|ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 82 I/Os, 100-pin LQFP, -40 to 85 degC, Tray|U2|STM-LQFP100_N|STM32F407VGT6|1
+28|8 Mhz|Crystal Oscillator|Y1|3SMXA|XTAL|1

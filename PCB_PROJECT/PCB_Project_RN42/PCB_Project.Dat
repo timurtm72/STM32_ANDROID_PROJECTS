@@ -1,0 +1,29 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project.PrjPcb|ReportField=ProjectFullPath~D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\PCB_PROJECT\PCB_Project\PCB_Project.PrjPcb|ReportField=Title~Bill of Materials For Project [PCB_Project.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~74|ReportField=ReportTime~17:14:06|ReportField=ReportDate~10.11.2016|ReportField=ReportDateTime~10.11.2016 17:14:06|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10.11.2016|ReportField=CurrentTime~17:09:17|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\PCB_PROJECT\PCB_Project\PCB_BLU1.SchDoc|ReportField=DocumentName~PCB_BLU1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~13.10.2016|ReportField=Organization~|ReportField=ProjectName~PCB_Project.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project.PrjPcb|ReportField=DataSourceFullPath~D:\ALL_PROJECTS\BLUETOOTH_ANDROID_STM32\PCB_PROJECT\PCB_Project\PCB_Project.PrjPcb
+1|1μF|WCAP-CSGP MLCC, X7R, 1210, 1μF pF,16Vdc|C1, C3, C5, C6, C7, C8, C9|WCAP-CSGP 1210, H=1.25mm|WCAP-CSGP 1210, 885012209011|7
+2|100 nF|WCAP-CSGP MLCC, X7R, 1206, 100000 pF,10Vdc|C2, C4, C10, C11, C12, C13, C14, C15, C18, C23|WCAP-CSGP 1206, H=0.8mm|WCAP-CSGP 1206, 885012208009|10
+3|2.2μF|WCAP-CSGP MLCC, X7R, 0805, 2.2μF ,10Vdc|C16, C17|WCAP-CSGP 0805, H=1.25mm|WCAP-CSGP 0805, 885012207024|2
+4|20 pF|WCAP-CSGP MLCC, NP0, 0603, 22 pF,10Vdc|C19, C20|WCAP-CSGP 0603, H=0.8mm|WCAP-CSGP 0603, 885012006004|2
+5|22uF|Tantamount Military, Surface Mount MIL-PRF-55365/8 Qualified Solid Tantalum Chip Capacitor: 22uF, 20% Tolerance, 6 WVDC @ +85°C, Surge = 8V|C21, C22, C24|6032|CWR11DH226M|3
+6|VDC = 5V|WE-TVS TVS Diode, High Speed Series, SOT23-6L, VDC = 5V|D1|SOT23-6L|WE-TVS, SOT23-6L, 824015|1
+7|500mA|Fuse|F1|RES2512R|Fuse 1|1
+8|MICROSD|=Description|J1|MICROSD|MICROSD|1
+9|Inductor|Inductor|L1|0402-A|Inductor|1
+10|150060BS75000|SMD mono-color Chip LED, WL-SMCW, Blue|LC|LED_0603_Blue|WL-SMCW 0603  150060BS75000|1
+11|150060RS75000|SMD mono-color Chip LED, WL-SMCW, Red|LLA|LED_0603_Red|WL-SMCW 0603  150060RS75000|1
+12|150060GS75000|SMD mono-color Chip LED, WL-SMCW, Green|LS|LED_0603_Green|WL-SMCW 0603  150060GS75000|1
+13|RN41 Module|RN41 Module|M1|RN42-LAND|RN42MOD|1
+14|1470695-4|USB 1.1, Right Angle, SMT, A Type, Plug, 4 Position, Black|P1|1470695A|1470695-4|1
+15|SWD|Header, 6-Pin|P2|HDR1X6|Header 6|1
+16|22|Resistor|R1, R2, R3, R4, R13, R14, R37|RES0402R|Resistor1|7
+17|10k|Resistor|R5, R8|RES0201R|Resistor1|2
+18|510|Resistor|R6, R9, R34, R35|RES0201R|Resistor1|4
+19|0|Resistor|R7, R10|RES0201R|Resistor1|2
+20|100k|Resistor|R11, R30, R31, R32, R33, R36|RES0201R|Resistor1|6
+21|220|Resistor|R12|RES0402R|Resistor1|1
+22|510|Resistor|R16, R17, R29|RES0402R|Resistor1|3
+23|100kOm|Resistor|R18, R19, R20, R21, R22, R23, R24|RES0201R|Resistor1|7
+24|100k|Resistor|R25, R26, R27, R28|RES0402R|Resistor1|4
+25|SW DIP-4|DIP Switch, 4 Position, SPST|S1|SO8_N|SW DIP-4|1
+26|STM32F407VGT6|ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 82 I/Os, 100-pin LQFP, -40 to 85 degC, Tray|U1|STM-LQFP100_N|STM32F407VGT6|1
+27|LP38690DTX-3.3|1A Low Dropout CMOS Linear Regulators Stable with Ceramic Output Capacitors, 3-pin TO-252|U2|TD03B_N|LP38690DTX-3.3|1
+28|8 Mhz|Crystal Oscillator|Y1|3SMXA|XTAL|1
